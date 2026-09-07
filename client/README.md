@@ -1,50 +1,62 @@
-# 🛒 Grocery Store Frontend
+# 🛒 ShopNear
 
-A modern and responsive grocery shopping website frontend designed to provide customers with a smooth and user-friendly online grocery shopping experience.
+A modern and responsive grocery shopping website frontend designed to provide a smooth, convenient, and user-friendly online shopping experience.
 
-The website features a clean UI, product browsing, categories, search, shopping cart, offers, and a responsive design optimized for mobile, tablet, and desktop devices.
+ShopNear brings everyday essentials together in one place, including fresh fruits and vegetables, bread, drinks, instant food, grains, and other grocery products. Users can browse products, explore categories, search for items, view offers, and manage their shopping cart through a clean and intuitive interface.
 
 ---
 
 ## ✨ Features
 
-- 🏠 Modern homepage
-- 🛍️ Grocery product listing
-- 🔍 Product search
-- 🗂️ Product categories
-- 🏷️ Offers and discounts
-- 🛒 Shopping cart interface
-- ➕ Add and remove products
-- 🔢 Update product quantities
-- 💰 Price and cart total calculation
-- 📦 Product details section
-- ❤️ Wishlist UI
-- 👤 Login and registration UI
-- 📱 Fully responsive design
-- ⚡ Fast and smooth user experience
-- 🎨 Clean and modern user interface
+* 🏠 Modern and responsive homepage
+* 🛍️ Product browsing
+* 🔍 Product search interface
+* 🗂️ Product categories
+* 🏷️ Offers and discounts
+* 🛒 Shopping cart interface
+* ➕ Add and remove products
+* 🔢 Update product quantities
+* 💰 Cart total calculation
+* 📦 Product details
+* ❤️ Wishlist interface
+* 👤 Login and registration interface
+* 📱 Fully responsive design
+* 🎨 Clean and modern UI
+* ⚡ Smooth user experience
+
+---
+
+## 🛒 Product Categories
+
+ShopNear includes a variety of everyday essentials:
+
+* 🍎 Fruits & Vegetables
+* 🍞 Bread & Bakery
+* 🥤 Drinks & Beverages
+* 🍜 Instant Food
+* 🌾 Grains & Staples
+* 🛍️ Everyday Essentials
+* 🏷️ Offers & Deals
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **React.js**
-- **JavaScript**
-- **HTML5**
-- **CSS3**
-- **React Router**
-- **Vite**
-- **Axios**
-- **Lucide React / React Icons**
-
-> Technologies listed above should be updated according to the actual technologies used in the project.
+* **React.js**
+* **JavaScript**
+* **HTML5**
+* **CSS3**
+* **React Router**
+* **Vite**
+* **Axios**
+* **Lucide React / React Icons**
 
 ---
 
 ## 📂 Project Structure
 
 ```text
-grocery-frontend/
+ShopNear/
 │
 ├── public/
 │
@@ -79,3 +91,57 @@ grocery-frontend/
 ├── package.json
 ├── vite.config.js
 └── README.md
+```
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone <your-repository-url>
+```
+
+### 2. Navigate to the project
+
+```bash
+cd ShopNear
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
+
+```bash
+npm run dev
+```
+
+---
+
+## 📱 Responsive Design
+
+ShopNear is optimized for a consistent experience across:
+
+* 📱 Mobile devices
+* 📲 Tablets
+* 💻 Laptops
+* 🖥️ Desktop screens
+
+---
+
+## 📌 Project Status
+
+🚧 **Frontend only — currently under development.**
+
+This repository contains the frontend implementation of ShopNear. Backend functionality and database integration are not included in this version.
+
+---
+
+### 🛒 ShopNear
+
+**Local Products. At Your Doorstep.**
